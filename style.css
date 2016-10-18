@@ -1,5 +1,10 @@
 body{
+	background: red;
+}
+p{
 	background: grey;
+	font-size: 50px;
+	color: brown;
 }
 p{
 	font-size: 30px;
