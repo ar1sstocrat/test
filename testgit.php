@@ -1,3 +1,3 @@
 <?php
-echo phpinfo(4);
+echo '<p>some text</p>';
 ?>
